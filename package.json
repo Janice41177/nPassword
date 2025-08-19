@@ -1,0 +1,10 @@
+{
+  "name": "npassword",
+  "version": "0.1.0",
+  "description": "A Windows AD Password Manager for ATTACKER(Redteamer/Pentester).",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
